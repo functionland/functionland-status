@@ -1,4 +1,5 @@
-# Substrate Front End Template
+![SugarFunge](/docs/sf-name.png)
+# SugarFunge Front End
 
 This template allows you to create a front-end application that connects to a
 [Substrate](https://github.com/paritytech/substrate) node back-end with minimal
@@ -17,8 +18,8 @@ The codebase is installed using [git](https://git-scm.com/) and [yarn](https://y
 
 ```bash
 # Clone the repository
-git clone https://github.com/substrate-developer-hub/substrate-front-end-template.git
-cd substrate-front-end-template
+git clone https://github.com/SugarFunge/sf-front-end.git
+cd sf-front-end
 yarn install
 ```
 

@@ -33,8 +33,8 @@ function Main (props) {
           </Card.Meta>
           <Card.Description>
             Built using the{' '}
-            <a href='https://github.com/substrate-developer-hub/substrate-front-end-template'>
-              Substrate Front End Template
+            <a href='https://github.com/SugarFunge/sf-front-end'>
+              SugarFunge Front End
             </a>
           </Card.Description>
         </Card.Content>

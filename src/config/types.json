@@ -1,1 +1,16 @@
-{}
+{
+    "CurrencyId": {
+        "_enum": {
+            "Native": null,
+            "Token": "H160",
+            "ETH": null,
+            "BTC": null,
+            "DOT": null
+        }
+    },
+    "CurrencyIdOf": "CurrencyId",
+    "Amount": "i128",
+    "AmountOf": "Amount",
+    "CollectionId": "u64",
+    "TokenId": "u64"
+}

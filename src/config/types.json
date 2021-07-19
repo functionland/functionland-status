@@ -1,6 +1,13 @@
 {
+  "Balance": "u128",
   "TokenId": "u64",
   "InstanceId": "u64",
+  "Token": {
+    "instance_id": "InstanceId",
+    "creator": "AccountId",
+    "is_nf": "bool",
+    "uri": "Vec<u8>"
+  },
   "TokenInfo": {
     "instance_id": "InstanceId",
     "token_id": "TokenId",
@@ -17,7 +24,8 @@
   },
   "CurrencyId": {
     "_enum": {
-      "Token": "TokenSymbol"
+      "Token": "TokenSymbol",
+      "Id": "TokenId"
     }
   },
   "CurrencyIdOf": "CurrencyId",

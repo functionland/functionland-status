@@ -13,6 +13,10 @@
     "token_id": "TokenId",
     "total_supply": "Balance"
   },
+  "Instance": {
+    "owner": "AccountId",
+    "data": "Vec<u8>"
+  },
   "ExchangeId": "u32",
   "TokenSymbol": {
     "_enum": {

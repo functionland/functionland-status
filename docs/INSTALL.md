@@ -4,7 +4,7 @@ The codebase is installed using [git](https://git-scm.com/) and [yarn](https://y
 
 ```bash
 # Clone the repository
-git clone https://github.com/SugarFunge/sf-front-end.git
+git clone https://github.com/functionland/functionland-status.git
 cd sf-front-end
 yarn install
 ```

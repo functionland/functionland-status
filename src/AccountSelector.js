@@ -54,7 +54,7 @@ function Main (props) {
     >
       <Container>
         <Menu.Menu>
-          <Image src={`${process.env.PUBLIC_URL}/assets/sf-logo.png`} size='mini' />
+          <Image src={`${process.env.PUBLIC_URL}/assets/fula-logo.png`} size='mini' />
         </Menu.Menu>
         <Menu.Menu position='right' style={{ alignItems: 'center' }}>
           { !accountSelected
